@@ -1,1 +1,7 @@
-# masters-thesis
+# Investigation of Multimedia Polycyclic Aromatic Hydrocarbon Pollution in Izmit Bay by Observation and Modeling Studies
+
+## Abstract
+
+The objective of this thesis is to investigate the multi-media polycyclic aromatic hydrocarbon (PAH) pollution in Izmit Bay by observation and modeling studies. This thesis was carried out as a part of the TUBITAK-supported project numbered 118Y155 and titled “Development of a Multi-Media Polycyclic Aromatic Hydrocarbon Fate Model for Izmit Bay”. Within the scope of the study, the physical-chemical properties of PAHs and the environmental characteristics of the Izmit Bay (oceanographic, meteorological, physical, etc.) were determined by literature reviews. For a comprehensive analysis of the polycyclic aromatic hydrocarbon pollution in Izmit Bay, field studies and sampling were carried out in different environmental media of Izmit Bay. The collected samples were subjected to physical, and chemical analysis in order to determine the PAH concentrations in the sampled media. With these data, inter-media transport and fate processes of PAH class of pollutants in the Izmit Bay environmental were explained with the multi-media fate model developed within the scope of the project titled "Development of a Multi-Media Polycyclic Aromatic Hydrocarbon Fate Model for İzmit Bay". PAH concentrations determined as a result of laboratory analysis were used as input and validation data in the model. Finally, using the developed model and the data obtained, different pollution simulations were conducted for Izmit Bay.
+
+#### Author: Süheyl Çavuşoğlu
